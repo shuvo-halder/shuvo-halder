@@ -1,2 +1,1 @@
-### Hi there 👋
-<h2>I'm Sam</h2>
+### Hi there 👋 I'm SAM

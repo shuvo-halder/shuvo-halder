@@ -1,2 +1,2 @@
-####<h2> Hi there 👋 I'm Sam</h2>
+<h2 style:text-align:center;> Hi there 👋 I'm Sam</h2>
 <hr>

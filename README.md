@@ -5,5 +5,5 @@
 
 -  Another CyberSecurity Guy.
 -  Doing Competitive Programming.
--  Intermediate level Web Development.
+-  Intermediate level Web Developer.
 -  Other Than That, I read a Lot of Blogs/Writeups

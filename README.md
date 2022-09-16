@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science (B.Sc) Undergraduate </h3>
 <br />
 
--  Another Cybersecurity Guy.
+-  Another CyberSecurity Guy.
 -  Doing Competitive Programming.
--  Full stack Web Development.
+-  Intermediate level Web Development.
 -  Other Than That, I read a Lot of Blogs/Writeups

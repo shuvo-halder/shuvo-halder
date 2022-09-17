@@ -5,5 +5,7 @@
 
 -  Another CyberSecurity Guy.
 -  Doing Competitive Programming.
+-  Looking for help with Python.
 -  Intermediate level Web Developer.
--  Other Than That, I read a Lot of Blogs/Writeups
+-  Looking to collaborate on Blockchain.
+-  Other Than That, I read a Lot of Blogs/Writeups.

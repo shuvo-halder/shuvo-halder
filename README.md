@@ -67,3 +67,6 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+<p align="center">
+  <a href="https://github.com/cybsam"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybsam&layout=compact&langs_count=8&theme=dark" alt="CybSam" /></a>
+</p>

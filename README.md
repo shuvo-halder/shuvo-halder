@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/cybsam"><img alt="CybSam c7b3am" src="https://github-readme-streak-stats.herokuapp.com/?user=cybsam&theme=dark&hide_border=false"></a><br>
+  
   <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   
 </p>

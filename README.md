@@ -1,15 +1,15 @@
-<h2 align="center"> Hi there 👋 I'm Sam, <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center"> Hi there 👋 I'm Shuvo Halder, <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <h3 align="center">Computer Science (B.Tech) Undergraduate </h3>
 <br />
 
 
 
-<p align="center">
+<!--<p align="center">
   
   <a href="https://github.com/cybsam"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   
-</p>
+</p> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybsam&label=Profile%20views&color=0e75b6&style=flat" alt="pronobiswas" /> </p>

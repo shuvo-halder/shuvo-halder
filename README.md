@@ -12,6 +12,7 @@
 </p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cybsam&label=Profile%20views&color=0e75b6&style=flat" alt="pronobiswas" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,7 +52,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 <br>
-<p>
+<!-- <p>
   <strong>Tools:</strong><br><br>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
@@ -66,7 +67,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+</p> -->
 <p align="center">
   <a href="https://github.com/cybsam"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybsam&layout=compact&langs_count=8&theme=dark" alt="CybSam" /></a>
 </p>

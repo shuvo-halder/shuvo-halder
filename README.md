@@ -1,6 +1,7 @@
 <h2 align="center"> Hi there 👋 I'm Shuvo Halder, <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <h3 align="center">Computer Science (B.Tech) Undergraduate </h3>
+<h4 align="center">committed to evolution</h4>
 <br />
 
 
@@ -16,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+- 📫 How to reach me **shuvo-halder@outlook.com**
 <a href="https://linkedin.com/in/shuvohalder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shuvo Halder" height="30" width="40" /></a>
 <a href="https://facebook.com/engr.h.sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sam" height="30" width="40" /></a>
 <a href="https://instagram.com/shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="CybSam" height="30" width="40" /></a>

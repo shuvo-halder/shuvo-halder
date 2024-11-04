@@ -69,5 +69,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p> -->
 <p align="center">
-  <a href="https://github.com/cybsam"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybsam&layout=compact&langs_count=8&theme=dark" alt="CybSam" /></a>
+  <a href="https://github.com/shuvo-halder">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo-halder&layout=compact&langs_count=8&theme=dark" alt="shuo-halder" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shuvo-halder&show_icons=true&locale=en" alt="shuvo-halder" />
+  </a>
+  
 </p>
